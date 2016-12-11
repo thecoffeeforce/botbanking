@@ -1,8 +1,8 @@
-## Objetivo
+## Goal
 
 Being next to the Santander customer to solve credit card problems by avoiding the standard and churn through a smart and available conversation tool at any time.
 
-## Como
+## How?
 
 Chat bot server, that integrates end user interfaces with IBM Watson for natural language interpretation and credit risk analysis service.
 
@@ -26,8 +26,7 @@ node server.js
 3. IBM Watson SDK (https://github.com/watson-developer-cloud/node-sdk)
 
 
-## Quem Somos
-
+## About Us
 Alison Prado
 https://br.linkedin.com/in/alisonpedro/en
 
