@@ -16,6 +16,14 @@ div {
 }
 
 #view-change-button {
+  display: none;
+}
+
+#payload-column {
+  display: none;
+}
+
+#view-change-button {
   display: inline-block;
   position: absolute;
   width: 3.125rem;
