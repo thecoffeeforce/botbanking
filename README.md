@@ -32,8 +32,7 @@ Alison Prado
 https://br.linkedin.com/in/alisonpedro/en
 
 Guilherme Dio
-https://br.linkedin.com/in/lucasdebarrosteixeira
-
+https://br.linkedin.com/in/guilhermedio/en
 
 Jeison Valejo
 https://br.linkedin.com/in/jeison-valejo-15b2b3b
