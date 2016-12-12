@@ -27,7 +27,7 @@ node server.js
 
 
 ## About Us
-Alison Prado
+Alison Pedro
 https://br.linkedin.com/in/alisonpedro/en
 
 Guilherme Dio
